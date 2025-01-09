@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I am a **Software Engineer** and **Android Develop
 - 🔭 **Current Focus:** Developing Android applications using **Kotlin**, **Java**, and modern tools like **ARCore** and **SceneView** for Android AR/VR.
 - 🌐 **Location:** Based in Ecuador, working remotely with international teams.
 - 🌱 **Always Learning:** Continuously expanding my expertise in mobile development and DevOps practices.
-- 📫 **Contact Me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/briantylerec/) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/briantylerec) | [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](http://monk-soft.web.app/)
+- 📫 **Contact Me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/briantylerec/) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/briantylerec) | [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://portfolio.monk-soft.com/)
 
 
 ## 🎓 Academic Background
