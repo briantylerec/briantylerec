@@ -1,4 +1,4 @@
-# Hi there 👋 I'm B. Tyler Mora
+# Hi there 👋 I'm Tyler
 
 Welcome to my GitHub profile! I am a **Software Engineer** and **Android Developer** with over six years of professional experience building high-quality mobile applications. I specialize in creating innovative and user-centric solutions that deliver value and enhance user experiences.
 
