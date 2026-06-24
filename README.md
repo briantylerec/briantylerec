@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Tyler
 
-Welcome to my GitHub profile! I am a **Software Engineer** and **Android Developer** with over six years of professional experience building high-quality mobile applications. I specialize in creating innovative and user-centric solutions that deliver value and enhance user experiences.
+Welcome to my GitHub profile! I am a **Software Engineer** and **Android Developer** with over 8 years of professional experience building high-quality mobile applications. I specialize in creating innovative and user-centric solutions that deliver value and enhance user experiences.
 
 ## 🌟 About Me
 
@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I am a **Software Engineer** and **Android Develop
   - Gained a strong foundation in programming, algorithms, and system design.
   - Focused on mobile and web application development.
 
-- **Master’s Degree in DevOps** (In Progress)
+- **Master’s Degree in DevOps**
   - Exploring modern practices for automation, CI/CD pipelines, cloud computing, and improving the software development lifecycle.
 
 ## 🛠️ Skills and Tools
